@@ -4,10 +4,10 @@ This repository contains the projects and tasks completed during my Data Science
 
 ## 📂 Project Structure
 * **Task 1:** Iris Flower Classification (Completed)
-* **Task 2:** Unemployment Analysis (Coming Soon)
-* **Task 3:** Car Price Prediction (Coming Soon)
-* **Task 4:** Email Spam Detection (Coming Soon)
-* **Task 5:** Sales Prediction (Coming Soon)
+* **Task 2:** Unemployment Analysis (Copleted)
+* **Task 3:** Car Price Prediction (Completed)
+* **Task 4:** Email Spam Detection (Completed)
+* **Task 5:** Sales Prediction (Completed)
 
 ---
 
