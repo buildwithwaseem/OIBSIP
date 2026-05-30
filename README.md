@@ -12,6 +12,17 @@ The internship helped me strengthen my skills in:
 - Real-world Problem Solving
 
 ---
+# Click here to see the best output possible
+
+## 1. Task 1 : https://nbviewer.org/github/buildwithwaseem/OIBSIP/blob/main/Task1_iris.ipynb
+## 2. Task 2 : https://nbviewer.org/github/buildwithwaseem/OIBSIP/blob/main/Task_2.ipynb
+## 3. Task 3 : https://nbviewer.org/github/buildwithwaseem/OIBSIP/blob/main/Task3.ipynb
+## 4. Task 4 : https://nbviewer.org/github/buildwithwaseem/OIBSIP/blob/main/EmailSpamD.ipynb
+## 5. Task 5 : https://nbviewer.org/github/buildwithwaseem/OIBSIP/blob/main/SalesPred_5th.ipynb
+
+## Final Repo : https://nbviewer.org/github/buildwithwaseem/OIBSIP/tree/main/
+
+-------
 
 # 🛠️ Technologies & Tools Used
 
