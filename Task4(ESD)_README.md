@@ -1,3 +1,5 @@
+**See Task 4 :** https://nbviewer.org/github/buildwithwaseem/OIBSIP/blob/main/EmailSpamD.ipynb
+
 # ✉️ Task 4: Email/SMS Spam Detection
 
 This project focuses on Natural Language Processing (NLP) to build a machine learning model that automatically classifies SMS or emails into **Spam** or **Ham** (legitimate messages).
