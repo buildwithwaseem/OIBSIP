@@ -3,6 +3,7 @@
 ## 📌 Internship Task
 **Internship:** Oasis Infobyte  
 **Task:** Task 2 - Unemployment Analysis with Python  
+**See Task 2** : https://nbviewer.org/github/buildwithwaseem/OIBSIP/blob/main/Task_2.ipynb
 
 ------
 
