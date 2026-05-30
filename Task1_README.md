@@ -1,5 +1,10 @@
 # Iris Flower Classification 🌸
 
+
+### Task 1: Email Spam Detection
+* Outputs with graphs and plots: [Interactive Notebook Link](https://nbviewer.org/github/buildwithwaseem/OIBSIP/blob/main/OIBSIP/EmailSpamD.ipynb)
+
+------
 ## 📌 Internship Task
 **Internship:** Oasis Infobyte  
 **Task:** Task 1 – Iris Flower Classification  
