@@ -1,3 +1,5 @@
+**See Task 3 :** https://nbviewer.org/github/buildwithwaseem/OIBSIP/blob/main/Task3.ipynb
+
 ## 🚗 Task 3: Car Price Prediction with Machine Learning
 For this task, I built a machine learning regression model to predict the price of used cars based on multiple features like brand goodwill, mileage, fuel type, engine capacity, and horsepower.
 
