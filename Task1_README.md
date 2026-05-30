@@ -2,7 +2,9 @@
 
 
 ### Task 1: Email Spam Detection
-* Outputs with graphs and plots: [Interactive Notebook Link](https://nbviewer.org/github/buildwithwaseem/OIBSIP/blob/main/OIBSIP/EmailSpamD.ipynb)
+* Outputs with graphs and plots: https://nbviewer.org/github/buildwithwaseem/OIBSIP/blob/main/Task1_iris.ipynb
+
+
 
 ------
 ## 📌 Internship Task
