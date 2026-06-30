@@ -437,7 +437,7 @@ https://in.linkedin.com/in/waseemakramai
 
 Please consider:
 - ⭐ Starring the repository
-- 🍴 Forking the project
+- 🍴 
 - 📢 Sharing Feedback
 
 ---
