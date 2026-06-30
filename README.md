@@ -436,8 +436,8 @@ https://in.linkedin.com/in/waseemakramai
 # ⭐ If You Like This Repository
 
 Please consider:
-- ⭐ Starring the repository
-- 🍴 
+- ⭐ Starring the 
+- 🍴 Forking the project
 - 📢 Sharing Feedback
 
 ---
