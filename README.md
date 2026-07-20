@@ -27,7 +27,7 @@ The internship helped me strengthen my skills in:
 # 🛠️ Technologies & Tools Used
 
 ## 💻 Programming Language
-- Python
+- Pyth
 
 ## 📚 Libraries & Frameworks
 - Pandas
